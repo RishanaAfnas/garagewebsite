@@ -61,6 +61,12 @@ a{
     color: #F79320 !important;
     
 }
+.nav-link:hover{
+    color: #FFFFFF !important;
+}
+.nav-link.active {
+    color: #FFFFFF !important;
+}
 
 .btn-square {
     width: 38px;
