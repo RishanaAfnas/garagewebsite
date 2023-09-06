@@ -137,6 +137,7 @@ a{
 .navbar-light.sticky-top {
     top: -100px;
     transition: .5s;
+    background: #221E20 !important;
 }
 
 @media (min-width: 992px) {
@@ -398,6 +399,9 @@ a{
     border-right: none;
 }
 .logo-image{
-    width: 290px;
-    height: 49px;
+    width: 350px;
+    height: 4auto;
+}
+.topbar{
+    background: #FFFFFF;
 }
